@@ -1,8 +1,8 @@
 
 %define		theme	pldblackbyshad
 
-Summary:	Bootsplash - pld black by shad theme
-Summary(pl):	Bootsplash - motyw pld dark black wg shada
+Summary:	Bootsplash - PLD black by shad theme
+Summary(pl):	Bootsplash - motyw PLD dark black wg shada
 Name:		bootsplash-theme-%{theme}
 Version:	1.0
 Release:	1
@@ -28,7 +28,7 @@ Motyw PLD black do bootsplash wg. shada.
 %install
 rm -rf $RPM_BUILD_ROOT
 THEME_DIR=$RPM_BUILD_ROOT%{_sysconfdir}/bootsplash/themes/%{theme}
-install -d $THEME_DIR{,/config,/images}
+install -d $THEME_DIR/{config,images}
 install %{theme}/config/*.cfg $THEME_DIR/config
 install %{theme}/images/*.jpg $THEME_DIR/images
 
