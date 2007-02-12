@@ -2,8 +2,8 @@
 %define		theme	blackbyshad
 
 Summary:	Bootsplash - PLD black by shad theme
-Summary(de.UTF-8):   Bootsplash - PLD black by shad Thema für Bootsplash
-Summary(pl.UTF-8):   Bootsplash - motyw PLD dark black wg shada
+Summary(de.UTF-8):	Bootsplash - PLD black by shad Thema für Bootsplash
+Summary(pl.UTF-8):	Bootsplash - motyw PLD dark black wg shada
 Name:		bootsplash-theme-%{theme}
 Version:	1.0
 Release:	1
