@@ -10,8 +10,8 @@ Release:	1
 Epoch:		0
 License:	GPL v2
 Group:		Themes
-Source0:	http://shadzik.atwa.us/content/bootsplash-theme-pldblackbyshad-%{version}.tar.bz2
-# Source0-md5:	7efd0cc598c71ba73b6534569ebe2253
+Source0:	http://shadzik.atwa.us/content/%{theme}/%{name}-%{version}.tar.bz2
+# Source0-md5:	70057d955f55fbee8a71e479765048cb
 URL:		http://www.atwa.us/~shadzik/content/blackbyshad/
 Requires:	bootsplash
 Obsoletes:	bootsplash-theme-pldblackbyshad
