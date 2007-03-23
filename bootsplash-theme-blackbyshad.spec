@@ -5,13 +5,13 @@ Summary:	Bootsplash - PLD black by shad theme
 Summary(de.UTF-8):	Bootsplash - PLD black by shad Thema für Bootsplash
 Summary(pl.UTF-8):	Bootsplash - motyw PLD dark black wg shada
 Name:		bootsplash-theme-%{theme}
-Version:	1.0
+Version:	1.1
 Release:	1
 Epoch:		0
 License:	GPL v2
 Group:		Themes
 Source0:	http://shadzik.atwa.us/content/blackbyshad/%{name}-%{version}.tar.bz2
-# Source0-md5:	70057d955f55fbee8a71e479765048cb
+# Source0-md5:	2b5993925498541e08d7385aad4d1a39
 URL:		http://www.atwa.us/~shadzik/content/blackbyshad/
 Requires:	bootsplash
 Obsoletes:	bootsplash-theme-pldblackbyshad
