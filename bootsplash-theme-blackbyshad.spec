@@ -13,6 +13,7 @@ Group:		Themes
 Source0:	http://shadzik.atwa.us/content/blackbyshad/%{name}-%{version}.tar.bz2
 # Source0-md5:	2b5993925498541e08d7385aad4d1a39
 URL:		http://www.atwa.us/~shadzik/content/blackbyshad/
+Provides:	bootsplash-theme
 Requires:	bootsplash
 Obsoletes:	bootsplash-theme-pldblackbyshad
 BuildArch:	noarch
