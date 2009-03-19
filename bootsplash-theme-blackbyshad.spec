@@ -26,7 +26,7 @@ PLD black theme by shad for bootsplash.
 PLD black by shad Thema für Bootsplash.
 
 %description -l pl.UTF-8
-Motyw PLD black do bootsplash wg. shada.
+Motyw PLD black do bootsplash wg shada.
 
 %prep
 %setup -q -c
